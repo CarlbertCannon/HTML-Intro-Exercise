@@ -8,11 +8,19 @@ body{
 
 .email{
     text-align: center;
-    color: blue;
+    color: lightskyblue;
 }
 
 #para1{
     text-align: center;
     color: blue;
+}
+
+.bottom{
+    background-image: url('images/pexels-kevin-ku-577585.jpg');
+}
+
+#para2{
+    color: gray;
 }
 
